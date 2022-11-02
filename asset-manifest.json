@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Gilangkbr/react-portfolio.git/static/css/main.e946539d.css",
+    "main.js": "/Gilangkbr/react-portfolio.git/static/js/main.dbd73d86.js",
+    "static/media/ava2.png": "/Gilangkbr/react-portfolio.git/static/media/ava2.890e7ba51d1458c9db80.png",
+    "static/media/profilpict2.png": "/Gilangkbr/react-portfolio.git/static/media/profilpict2.d5eea7bb423c8423beb6.png",
+    "static/media/profilpict.png": "/Gilangkbr/react-portfolio.git/static/media/profilpict.972a40bfd62e09b56caf.png",
+    "static/media/portfolio1.jpg": "/Gilangkbr/react-portfolio.git/static/media/portfolio1.a1a2201d91b2e9a5bf06.jpg",
+    "static/media/ava1.jpg": "/Gilangkbr/react-portfolio.git/static/media/ava1.3c2eabececa73aea622f.jpg",
+    "static/media/ava3.jpg": "/Gilangkbr/react-portfolio.git/static/media/ava3.6cbd61f7bcb5dab2424a.jpg",
+    "static/media/mycv.pdf": "/Gilangkbr/react-portfolio.git/static/media/mycv.96f5df524bc6747d6c03.pdf",
+    "index.html": "/Gilangkbr/react-portfolio.git/index.html",
+    "main.e946539d.css.map": "/Gilangkbr/react-portfolio.git/static/css/main.e946539d.css.map",
+    "main.dbd73d86.js.map": "/Gilangkbr/react-portfolio.git/static/js/main.dbd73d86.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e946539d.css",
+    "static/js/main.dbd73d86.js"
+  ]
+}
